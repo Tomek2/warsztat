@@ -1,0 +1,12 @@
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\ViperService.dll.config
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\ViperService.dll
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\ViperService.pdb
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\System.Web.Razor.xml
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\System.Web.Webpages.xml
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\System.Web.Webpages.Deployment.xml
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\System.Web.Webpages.Razor.xml
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\System.Web.Helpers.xml
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\bin\System.Web.Mvc.xml
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\obj\Debug\ViperService.csprojResolveAssemblyReference.cache
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\obj\Debug\ViperService.dll
+c:\users\vanvilon\documents\visual studio 2013\Projects\ViperService\ViperService\obj\Debug\ViperService.pdb
